@@ -1,0 +1,14 @@
+button{
+    background-color: blue;
+    
+}
+button a{
+    color: #ffff;
+    text-decoration: none;
+}
+img{
+    width: 200px;
+}
+#search-the-web{
+    width: 300px;
+}
